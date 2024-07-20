@@ -20,3 +20,11 @@ This project provides a network traffic analyzer tool written in Python. It help
    -> Open the project using Visual Studio Code (VS Code) or any other code editor of your choice.
    -> Locate the main.py file.
    -> Run the main.py script to start the network traffic analyzer.
+
+
+# Screenshots
+1. ![Home](https://github.com/user-attachments/assets/8d812b4b-2cd3-4c7c-92fb-62a5ec99e7a7)
+2. ![select network card](https://github.com/user-attachments/assets/2f4d53dc-8edc-4a74-b8dc-f729c836d64b)
+3. ![visualization (1)](https://github.com/user-attachments/assets/ac4bf5e4-ab08-4f27-9840-3838f4689059)
+
+
