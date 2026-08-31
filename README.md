@@ -288,3 +288,45 @@ If this project helps your learning, research, or network-analysis work:
 - Report bugs through GitHub Issues
 - Submit feature suggestions
 - Share responsible feedback with the maintainer
+
+
+---
+
+## ☕ Support Our Work
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║   💡 Love TwinPhish-Framework?                                ║
+║                                                                ║
+║   Help us continue developing high-quality security-awareness ║
+║   tools and resources. Your support fuels innovation!          ║
+║                                                                ║
+║   ⭐ Every star is appreciated!                               ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+### Make a Contribution
+
+Your donation directly supports:
+
+🛡️ Enhanced security features
+📚 Better documentation and examples
+🔬 Advanced lab capabilities
+🤝 Community support and improvements
+
+### Donation Options
+
+<div align="center">
+
+[![Donate via PayPal](https://img.shields.io/badge/PayPal-💳%20Donate%20Now-0070ba?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/infomaticgeeks)
+[![Buy Me Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕%20Support%20Us-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abi.abinash)
+
+</div>
+
+Every contribution, no matter the size, makes a difference! 🙏
+
+</div>
