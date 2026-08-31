@@ -296,18 +296,14 @@ If this project helps your learning, research, or network-analysis work:
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║   💡 Love TwinPhish-Framework?                                ║
-║                                                                ║
-║   Help us continue developing high-quality security-awareness ║
-║   tools and resources. Your support fuels innovation!          ║
-║                                                                ║
-║   ⭐ Every star is appreciated!                               ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+
+                                                                
+   💡 Love Network-traffic-analyzer-tool-using-python?                                                                                             
+   Help us continue developing high-quality security-awareness 
+   tools and resources. Your support fuels innovation!         
+                                                                
+   ⭐ Every star is appreciated!                               
+                                                                
 
 ### Make a Contribution
 
