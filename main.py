@@ -11,7 +11,7 @@ from utils.alert_system import alert_system
 from utils.filter_sort import filter_and_sort
 from utils.report_generator import generate_report
 from scapy.arch.windows import get_windows_if_list
-import tkinter as tk
+import tkinter as tk 
 
 # Specify the path to the manuf file
 manuf_path = r"C:\Users\abina\Desktop\Traffic_analyser\manuf"
