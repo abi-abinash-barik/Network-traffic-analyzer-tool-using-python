@@ -1,6 +1,6 @@
 # Network Traffic Analyzer Tool 
 
-<p align="center">
+<p align="center"> 
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Packet%20Analysis-PyShark-1679A7?style=for-the-badge" alt="PyShark">
   <img src="https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge" alt="GPLv3 License">
